@@ -1,4 +1,4 @@
-# ZenTrades Dashboard - React with Tailwind CSS
+# Login - React with Tailwind CSS
 
 This project creates a React dashboard application with login functionality and data visualization using charts and dropdowns built as components. Tailwind CSS is used for utility-based styling.
 
